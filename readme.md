@@ -1,0 +1,1 @@
+Easy Check users token JWT jsonwebtokem, in Thunder Client with static file.json
